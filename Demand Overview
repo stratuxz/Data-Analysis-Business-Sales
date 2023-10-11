@@ -1,0 +1,41 @@
+Business Demand Overview
+
+Reporter: Steven - Sales Manager
+Value of Change: Visual Dashboards and improved Sales reporting or follow up for salesforce
+Necessary Systems: Power BI, CRM System
+Other Relevant Info: Budgets have been delivered in excel for 2021
+
+User Stories:
+
+No #:
+As a [role]:
+I want {request/demand}:
+So that I {user value}:
+Acceptance Criteria:
+
+1
+Sales Manager
+To get a dashboard overview of internet sales
+Can follow better with customers and products with the best
+A Power BI dashboard that updates data once a day
+
+2
+Sales Representative
+A detailed overview of internet sales per customers
+Can follow up on my customers that buy the most and who we can sell one too
+A Power BI dashboard that allows me to filter data per customer
+
+3
+Sales Representative
+A detailed overview of internet sales per products
+Can follow up on my products that sell the most
+A Power BI dashboard that allows me to filter data per product
+
+4
+Sales Manager
+A dashboard overview of internet sales
+Follow sales over time against budget
+A Power Bi dashboard with graphs and KPIs comparing against budget
+
+
+

@@ -7,6 +7,7 @@ SELECT
   c.FirstName AS [First Name], 
   --[MiddleName], 
   c.LastName [Last Name], 
+  c.FirstName + ' ' + c.LastName AS [Full Name],
   --[NameStyle], 
   --[BirthDate], 
   --[MaritalStatus], 
